@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "1.png",
+      "name": "Black Hoodie \"Million Dollars Hoodie\"",
+      "price": 2100.4234243,
+      "article": "T1",
+      "available": true,
+      "category": "Male"
+    },
+    {
+      "image": "2.png",
+      "name": "Blue Hoodie \"Million Dollars Hoodie\"",
+      "price": 3150.658655214,
+      "article": "T2",
+      "available": true,
+      "category": "Male"
+    },
+    {
+      "image": "3.png",
+      "name": "T-shirt \"Million Dollars T-shirt\"",
+      "price": 4200.657432,
+      "article": "T3",
+      "available": false,
+      "category": "Male"
+    },
+    {
+      "image": "4.png",
+      "name": "Tanktop \"Million Dollars Tanktop\"",
+      "price": 5300.12345,
+      "article": "T4",
+      "available": true,
+      "category": "Female"
+    },
+    {
+      "image": "5.png",
+      "name": "Panama \"Million Dollars Panama\"",
+      "price": 6500.566329,
+      "article": "T5",
+      "available": false,
+      "category": "Female"
+    },
+    {
+      "image": "6.png",
+      "name": "Socks \"Million Dollars Socks\"",
+      "price": 8700.56457,
+      "article": "T6",
+      "available": true,
+      "category": "Female"
+    }
+  ]
+}
