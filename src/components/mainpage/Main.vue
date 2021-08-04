@@ -1,11 +1,11 @@
 <template>
     <div class="v-main">
         <h1>Million Dollars Collection Shop</h1>
-        <p>
+        <h2>
             <router-link :to="{name: 'Catalog'}">
                 Catalog
             </router-link>
-        </p>
+        </h2>
     </div>
 </template>
 

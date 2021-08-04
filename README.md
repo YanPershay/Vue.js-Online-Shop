@@ -1,24 +1,34 @@
-# online_shop
+# Online clothes shop
 
 ## Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+npx json-server db.json
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Online shop tutorial for learning Vue.js
+<br />
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Catalog page
+<img src="./Assets/1.png" width="600" height="450">
+<br />
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Filtered by price and gender
+<img src="./Assets/2.png" width="600" height="450">
+<br />
+
+### Ability to view product information
+<img src="./Assets/3.png" width="600" height="450">
+<br />
+
+### Adding an item to the cart, changing the quantity, calculating the final price and deleting from cart
+<img src="./Assets/4.png" width="600" height="450">
+<br />
+
+### Search by name
+<img src="./Assets/5.png" width="600" height="450">
+<br />
+
+
+
+
